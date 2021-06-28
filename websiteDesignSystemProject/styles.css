@@ -1,0 +1,68 @@
+
+
+#colors {
+border: 4px solid grey;
+position: relative;
+margin: 10px auto;
+padding: 5%;
+}
+#fonts {
+border: 4px solid grey;
+position: relative;
+margin:10px auto;
+padding: 5%;
+}
+#text-styles {
+border: 4px solid grey;
+position: relative;
+margin:10px auto;
+padding: 5%;
+}
+.peach {
+color: black;
+background-color: #e4A850;
+border: 2px solid #e4A850;
+box-sizing: border-box;
+width: 200px;
+height: 125px;
+margin:auto;
+display:inline-block;
+}
+.mint {
+color: black;
+background-color: #82d8bd;
+border: 2px solid #82d8bd;
+box-sizing: border-box;
+width: 200px;
+height: 125px;
+margin: auto;
+display:inline-block;
+}
+.tan {
+color: black;
+background-color: #c4b990;
+border: 2px solid #c4b990;
+box-sizing: border-box;
+width: 200px;
+height: 125px;
+margin: auto;
+display:inline-block;
+}
+.montserrat {
+font-family: 'Montserrat', sans-serif;
+}
+.montserrat1 {
+font-family: 'Montserrat', sans-serif;
+}
+.montserrat2 {
+font-family: 'Montserrat', sans-serif;
+}
+.raleway {
+font-family: 'Raleway', sans-serif;
+}
+.raleway1 {
+font-family: 'Raleway', sans-serif;
+}
+.raleway2 {
+font-family: 'Raleway', sans-serif;
+}
